@@ -6,7 +6,7 @@ public class LambdaDemo {
 
 		// object can't be created for an interface 
 //		SomeInterface obj = new SomeInterface();
-
+//demo
 	}
 	
 	
